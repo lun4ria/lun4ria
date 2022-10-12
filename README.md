@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 
 # Wellow world
-## Cinthia Cortese, Artes Multimediales - UNA. 
-## Argentina.
+ Cinthia Cortese, Artes Multimediales - UNA, 2022
+ Argentina.
 <!---
 lun4ria/lun4ria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
